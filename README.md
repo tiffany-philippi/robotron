@@ -1,2 +1,1 @@
-# robotron
-JavaScript Project.
+# robotron-2000
